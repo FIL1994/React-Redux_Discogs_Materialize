@@ -9,10 +9,10 @@ Requires an API key and secret from [Discogs](https://www.discogs.com/developers
 * [jQuery](https://jquery.com/)
 
 
-![Search](http://react-discogs.philvr.com/img/home.png)
+![Search](http://material.discogs.philvr.com/img/search.png)
 
-![Artist](http://react-discogs.philvr.com/img/artist.png)
+![Artist](http://material.discogs.philvr.com/img/artist.png)
 
-![Releases](http://react-discogs.philvr.com/img/releases.png)
+![Releases](http://material.discogs.philvr.com/img/releases.png)
 
-![Album](http://react-discogs.philvr.com/img/release.png)
+![Album](http://material.discogs.philvr.com/img/release.png)
