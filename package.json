@@ -8,7 +8,7 @@
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch",
-    "build": "webpack && mkdir -p build && cp index.html build/index.html && cp bundle.js build/bundle.js"
+    "build": "webpack && mkdir -p build && cp index.html build/index.html && cp bundle.js build/bundle.js && cp -r style build/style"
   },
   "author": "",
   "license": "ISC",
